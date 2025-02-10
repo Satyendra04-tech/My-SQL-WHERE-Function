@@ -39,7 +39,7 @@ WHERE name = 'David' AND Choice = 'Red';
 1. This code will give the list of all the films whose rental rate is more than 4$. 
 ```
 SELECT film_title FROM table_name
-WWHEREhere rental_rate > 4;
+WHERE rental_rate > 4;
 ```  
 
 2. This code will give the list of all the films whose rental rate is more than 4$ and replacement cost is more than or equal to 19.99$ and rating is 'R'. 
@@ -55,7 +55,7 @@ SELECT email, first_name, last_name FROM T2
 WHERE first_name = 'Nancy' AND last_name = 'Thomas';
 ```  
 
-4. Suppose we have a table T3 which contains film title and discription of the movie. A customer wants to know what the movie "Hello" is about. Could you give the decsriotion of the mentioned movie.
+4. Suppose we have a table T3 which contains film title and description of the movie. A customer wants to know what the movie "Hello" is about. Could you give the description of the mentioned movie.
 ```
 SELECT title, description FROM T3
 WHERE title = 'Hello':
