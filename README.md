@@ -5,9 +5,15 @@ In Simple terms it is used to aplly any filter conditions.
 
 * Syntax =  
 ```
-Select column_1, column_2 from table_name  
-Where condition ;
+SELECT column_1, column_2 FROM table_name  
+WHERE condition ;
 ```
+WHERE clause appears immediately after the FROM clause of the SELECT statement.  
+
++ Comparison operator  
+
+![Comparison Operator Table](./Comparison%20operator.jpg)  
+
 
 
             
