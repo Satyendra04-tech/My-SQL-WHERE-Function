@@ -12,14 +12,14 @@ WHERE condition ;
 
 + Comparison operator  
 
-![Comparison Operator Table](./Comparison%20operator.jpg)  
+![Comparison Operator Table](./Photos/Conditional%20Operator%20Table.png)  
 
 + Logical Operator = AND, OR, NOT  
 
 ## Examples  
 Let's assume there is table namd T1 where name of person and their color choice is given.  
 
-![Name](Name%20Table.jpg)  
+![Name](./Photos/Name%20Table.png)  
 
 1. Select the name 'David' from the table.
 ```
